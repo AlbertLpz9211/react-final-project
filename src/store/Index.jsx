@@ -8,7 +8,7 @@ import isLoadingSlice from "./slices/isLoading.slice";
 export default configureStore({
   reducer: {
     isLoading: isLoadingSlice,
-    articles: articlesSlice,
-    clientsProducts: clientsProductsSlice
+    clientsProducts: clientsProductsSlice,
+    articles: articlesSlice
   }
 });

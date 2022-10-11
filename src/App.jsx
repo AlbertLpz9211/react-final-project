@@ -9,7 +9,7 @@ import Purchases from "./pages/Purchases";
 import LoadingScreen from "./components/LoadingScreen";
 import {useSelector} from 'react-redux'
 
-//inicio de video 2
+//video 2 :  00:35:59
 
 
 
